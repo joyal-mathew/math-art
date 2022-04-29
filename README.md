@@ -1,5 +1,5 @@
 # Math Art
-Inspired by [a stackoverflow question](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art), this project allows you to create interesting images through mathematics. It generates an image  by getting an `r`, `g`, `b`, and `a` value from 4 defined functions for each pixel. Each function gets the following parameters passed in:
+Inspired by [a code golf question](https://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art), this project allows you to create interesting images through mathematics. It generates an image  by getting an `r`, `g`, `b`, and `a` value from 4 defined functions for each pixel. Each function gets the following parameters passed in:
 
 - `x`: the x coordinate of the given pixel
 - `y`: the y coordinate of the given pixel
